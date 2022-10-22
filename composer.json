@@ -1,0 +1,26 @@
+{
+  "name": "practice/state-observer",
+  "description": "State and Observer",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+      "psr-4": {
+          "App\\": ".",
+          "Test\\": "."
+      }
+  },
+  "authors": [
+      {
+          "name": "Vladislav Kuznetsov",
+          "email": "vladislav1kuznetsov@gmail.com",
+          "role": "Developer"
+      }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+
+  },
+  "require-dev": {
+      
+  }
+}
